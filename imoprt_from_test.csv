@@ -1,0 +1,7 @@
+name,detailed_type,categ_id,default_code,uom_id,invoicing_policy,sale_ok,purchase_ok,location_id,inventory_quantity,standard_price
+p-31-1111,Storable Product,7,ref/01/1,m,Delivered quantities,FALSE,FALSE,17,100,10
+p-31-1111,Storable Product,7,ref/01/1,m,Delivered quantities,FALSE,FALSE,17,200,20
+p-31-1111,Storable Product,7,ref/01/1,m,Delivered quantities,FALSE,FALSE,17,300,30
+p-31-1112,Storable Product,7,ref/03/3,L,Delivered quantities,FALSE,FALSE,19,100,30
+p-31-1112,Storable Product,7,ref/03/3,L,Delivered quantities,FALSE,FALSE,19,200,30
+p-31-1113,Storable Product,7,ref/04/4,kg,Ordered quantities,TRUE,TRUE,20,400,40
